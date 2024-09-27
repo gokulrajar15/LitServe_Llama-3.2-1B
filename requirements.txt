@@ -1,0 +1,5 @@
+litserve
+--extra-index-url https://download.pytorch.org/whl/cpu 
+huggingface_hub
+llama-cpp-python
+uvloop
